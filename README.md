@@ -18,3 +18,5 @@ We will integrate various technologies including Python, Apache Kafka, and AWS t
 
 ## Dataset Used
 You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
+
+File used is all_stocks_5yr.csv
