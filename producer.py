@@ -7,7 +7,7 @@ import pandas as pd
 # Configuration
 KAFKA_TOPIC = 'demo_test'
 KAFKA_BOOTSTRAP_SERVERS = ['<Your Public IP>:9092']  # Use your public IPV4
-CSV_FILE = 'stockData.csv'
+CSV_FILE = 'all_stocks_5yr.csv'
 SLEEP_INTERVAL = 0.1  # in seconds
 
 # Setup logging
